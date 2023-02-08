@@ -7,8 +7,8 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
 [params]
     brand = "Alix Pham"                      # name of your site - appears in the sidebar
-    brand_image = "/images/profile.jpg"    # path to the image shown in the sidebar
-    description = "I am a biomedical engineer & an effective altruist"
+    brand_image = "/images/profile.JPG"    # path to the image shown in the sidebar
+    description = "Biomedical Engineer\n&\nEffective Altruist"
     dark_mode = false                      # optional - defaults to false
 
     # MENU PLACEHOLDER
