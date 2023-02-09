@@ -5,13 +5,24 @@ date='2023-02-08'
 draft='false'
 +++
 
-I grew up in Toulouse, France. I never knew how to do "nothing", and I always managed to keep myself busy.
+> Email me: [alix.kl.pham@gmail.com](mailto:alix.kl.pham@gmail.com)
 
-##### Hobbies
-* Sports
-    * Gymnastics
-    * Dance
-    * Climbing
-    * Rubgy
-    * Yoga
-    * Basketball
+Originally from **Toulouse, France**, I currently live in **Lausanne, Switzerland**.
+
+I am interested in[^1]:
+* **alternative proteins:** meat, eggs, and dairy products not made from living animals---cheap, tasty, and healthy alternatives can decrease animal product consumption, thus farmed animal suffering and the negative environmental impact of agriculture
+* **resilient foods:** foods, food production methods or interventions that would allow for significant food availability in the face of a global catastrophic food shock
+* **biosecurity and biosafety:** managing risks from biological agents and their products
+* **policy:** governments are very powerful, and control significant proportions of world GDP; helping policy-makers can be a high-value strategy
+
+Projects I undertook:
+* **EA Lausanne:** Effective Altruism local chapter in Lausanne; community-building, speaker events, debates, etc.
+    * [Read more...](https://alix-pham.github.io/projects/ea-lausanne)
+* **Existential risk research:** sponsored by the Stanford Existential Risk Initiative (SERI) (Summer Research Program 2021) and mentored by the Alliance to Feed the Earth in Disasters (ALLFED)
+    * [Nutrition in Abrupt Sunlight Reduction Scenarios: Envisioning Feasible Balanced Diets on Resilient Foods](https://www.mdpi.com/2072-6643/14/3/492)
+
+I was educated at:
+* **Ecole Polytechnique,** France - MSc Interdisciplinary Biology
+* **ETH Zürich,** Switzerland - MSc Biomedical Engineering
+
+[^1]: Definitions from [here](https://forum.effectivealtruism.org/topics/all)

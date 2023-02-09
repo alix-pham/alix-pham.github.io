@@ -17,11 +17,12 @@ Winter & Spring 2021
 ##### Existential risk researcher
 Summer 2021
 * Fellow at the Stanford Existential Risk Initiative (SERI) Summer Research Program 2021
-* Mentored by the Alliance to Feed the Earth in Disasters
+* Mentored by the Alliance to Feed the Earth in Disasters (ALLFED)
 * First author of a peer-reviewed article in MDPI Nutrients: [Nutrition in Abrupt Sunlight Reduction Scenarios: Envisioning Feasible Balanced Diets on Resilient Foods](https://www.mdpi.com/2072-6643/14/3/492)
 
 ##### Committed participant
 * EA Global London: Oct 2021
+* Magnify Mentoring mentee: Oct 2021 - present
 * EA Switzerland Fellow: Nov - Dec 2021
 
 ##### Main organizer of Effective Altruism Lausanne
