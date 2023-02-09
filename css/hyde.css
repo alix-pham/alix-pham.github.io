@@ -110,7 +110,7 @@ pre {
   color: var(--sidebar-h1-color);
   margin-top: 0;
   font-weight:300;
-  font-size: 1.5em;
+  font-size: 1.30em;
   font-family: "DM Serif", serif;
 }
 
@@ -146,7 +146,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .sidebar-sticky {
-    position: center;
+    position: absolute;
     right:  1rem;
     top: 1rem;
     left:   1rem;
