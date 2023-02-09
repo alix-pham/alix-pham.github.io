@@ -19,7 +19,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
         {Name = "About", URL = "/about/", HasChildren = false},
-        {Name = "Posts", URL = "/posts/", HasChildren = true, Limit = 5},
+        {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
         {Name = "Projects", URL = "/projects/", HasChildren = true, Limit = 5}
     ]
 
@@ -27,10 +27,9 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     github_url = "https://github.com/alix-pham/"
     linkedin_url = "https://linkedin.com/in/alix-pham-b8280713b/"
     twitter_url = "https://twitter.com/alix_ph"
-    instagram_url = "https://instagram.com/alix_ph/"
 
     # Hex colors for your sidebar.
-    sidebar_bg_color = "#202020"            # default is #202020
+    sidebar_bg_color = "#2a2d29"            # default is #202020
     sidebar_img_border_color = "#515151"    # default is #515151
     sidebar_p_color = "#909090"             # default is #909090
     sidebar_h1_color = "#FFF"               # default is #FFF
