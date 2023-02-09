@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, strong {
     width: 180px;
 }
 .social {
-    margin-right: 0.5em;
+    margin-left: 2.3em;
     text-decoration: none !important;
     color: var(--sidebar-socials-color) !important;
 }
