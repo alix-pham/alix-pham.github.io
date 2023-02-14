@@ -10,6 +10,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     brand_image = "/images/profile.JPG"    # path to the image shown in the sidebar
     description = "Biomedical Engineer\n&\nEffective Altruist"
     dark_mode = false                      # optional - defaults to false
+    favicon = "favicon.ico"
 
     # MENU PLACEHOLDER
     # Menu dict keys:
