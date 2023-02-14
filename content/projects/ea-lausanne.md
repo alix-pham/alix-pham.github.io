@@ -9,23 +9,23 @@ I joined the Effective Altruism community early 2021. This post describes my jou
 
 <!--more-->
 
-##### Newbie and proactive learner
+#### Newbie and proactive learner
 Winter & Spring 2021
 * Impact Seminar @ EA Switzerland (introduction to EA): Feb - March 2021
 * Career Mentorship @ EA Switzerland: April - June 2021
 
-##### Existential risk researcher
+#### Existential risk researcher
 Summer 2021
 * Fellow at the Stanford Existential Risk Initiative (SERI) Summer Research Program 2021
 * Mentored by the Alliance to Feed the Earth in Disasters (ALLFED)
 * First author of a peer-reviewed article in MDPI Nutrients: [Nutrition in Abrupt Sunlight Reduction Scenarios: Envisioning Feasible Balanced Diets on Resilient Foods](https://www.mdpi.com/2072-6643/14/3/492)
 
-##### Committed participant
+#### Committed participant
 * EA Global London: Oct 2021
 * Magnify Mentoring mentee: Oct 2021 - present
 * EA Switzerland Fellow: Nov - Dec 2021
 
-##### Main organizer of Effective Altruism Lausanne
+#### Main organizer of Effective Altruism Lausanne
 * President: Dec 2021 - September 2022
     * Speaker events
         * [Global Catastrophic Food Shocks](https://www.youtube.com/watch?v=i7HFl69i-i8&t=1s), by [Juan Garcia-Martinez](https://www.linkedin.com/in/juan-garcia-martinez/), the [Alliance to Feed the Earth in Disasters](https://allfed.info/)
