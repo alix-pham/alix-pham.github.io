@@ -2,6 +2,7 @@
 author = "Alix Pham"
 title = "Existential Risk Research"
 date = '2022-01-23'
+showthedate=true
 draft = "false"
 +++
 
@@ -15,7 +16,7 @@ Resilient food sources are investigated by the Alliance to Feed the Earth in Dis
 
 Our research concluded in the publication of a paper in a peer-reviewed journal (MDPI Nutrients, IF 5.7):
 
-#### [Nutrition in Abrupt Sunlight Reduction Scenarios: Envisioning Feasible Balanced Diets on Resilient Foods](https://www.mdpi.com/2072-6643/14/3/492)
+### [Nutrition in Abrupt Sunlight Reduction Scenarios: Envisioning Feasible Balanced Diets on Resilient Foods](https://www.mdpi.com/2072-6643/14/3/492)
 
 **Abstract:**
    

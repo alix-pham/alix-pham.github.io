@@ -57,3 +57,9 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 [taxonomies]
     series = 'series'
     tags = 'tags'
+    
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true              #to allow inline html to be rendered
