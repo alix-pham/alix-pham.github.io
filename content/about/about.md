@@ -1,7 +1,7 @@
 +++
 author='Alix Pham'
 title='About me'
-date='2023-02-08'
+date='2023-04-12'
 draft='false'
 +++
 
@@ -10,6 +10,8 @@ draft='false'
 > Give me feedback [here](/feedback)
 
 Originally from **Toulouse, France**, I currently live in **Lausanne, Switzerland**.
+
+I am Assistant Director at **Effective Altruism Switzerland**.
 
 #### I am interested in[^\*]:
 * **alternative proteins:** meat, eggs, and dairy products not made from living animals---cheap, tasty, and healthy alternatives can decrease animal product consumption, thus farmed animal suffering and the negative environmental impact of agriculture

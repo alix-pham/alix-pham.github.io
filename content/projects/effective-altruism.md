@@ -1,6 +1,6 @@
 +++
 author = "Alix Pham"
-title = "EA Lausanne"
+title = "My Effective Altruism Journey"
 date = '2023-02-15'
 draft = "false"
 +++
@@ -25,7 +25,7 @@ Summer 2021
 * **Magnify Mentoring** mentee: Oct 2021 - present
 * **EA Switzerland Fellow**: Nov - Dec 2021
 
-### Main organizer of Effective Altruism Lausanne
+### Main organizer @ Effective Altruism Lausanne
 * **President**: Dec 2021 - September 2022
     * Speaker events
         * Global Catastrophic Food Shocks <a href="https://www.youtube.com/watch?v=i7HFl69i-i8&t=1s" target='_blank'><img src="/images/youtube.png" height="20" width="20" style="float:left;margin:3px 4px"></a>, by [Juan Garcia-Martinez](https://www.linkedin.com/in/juan-garcia-martinez/), the [Alliance to Feed the Earth in Disasters](https://allfed.info/)
@@ -34,8 +34,19 @@ Summer 2021
         * AI Ethics <a href="https://www.youtube.com/watch?v=6j_iCum0ikQ" target='_blank'><img src="/images/youtube.png" height="20" width="20" style="float:left;margin:3px 4px"></a>, by [Marcello Ienca, Intelligent System Ethics @ EPFL](https://people.epfl.ch/marcello.ienca/?lang=en)
     * University Group Accelerator Program (UGAP) 'Starter': August 2022
 
-* **Chief Wellbeing Officer**: October 2022 - present
+* **Chief Wellbeing Officer**: October 2022 - April 2023
     * 8-week in-person Impact Seminar (introduction to EA) - 30 participants - Fall 2022
+    * 8-week in-person Alternative Proteins Seminar (Technical track) - 13 participants - Spring 2023
     * Speaker events
         * Grand Futures <a href="https://www.youtube.com/watch?v=G3KE5wp98Lo" target='_blank'><img src="/images/youtube.png" height="20" width="20" style="float:left;margin:3px 4px"></a>, by [Anders Sandberg, Future of Humanity Institute](https://www.fhi.ox.ac.uk/team/anders-sandberg/)
         * Building Large-Scale EA Projects in Switzerland, by [Maxime Stauffer, Simon Institute for Longterm Governance](https://www.simoninstitute.ch/about/member/maxime-stauffer/)
+
+* **Advisor**: May 2023 - present
+
+### Alternative Protein Project @ EPFL
+* **Co-Founder**: April 2023
+    * Supported by The Good Food Institute
+
+### Executive Team @ Effective Altruism Switzerland
+* **Assistant Director**: May 2023 - present
+    * Assisting Marcel Steimke in growing the Swiss EA community
