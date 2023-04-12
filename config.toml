@@ -7,7 +7,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
 [params]
     brand = "Alix Pham"                    # name of your site - appears in the sidebar
-    brand_image = "/content/images/profile.JPG"    # path to the image shown in the sidebar
+    brand_image = "/images/profile.JPG"    # path to the image shown in the sidebar
     description = "Biomedical Engineer\n&\nEffective Altruist"
     dark_mode = false                      # optional - defaults to false
     favicon = "favicon.ico"
@@ -29,7 +29,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     twitter_url = "https://twitter.com/alix_ph"
 
     # Hex colors for your sidebar.
-    sidebar_bg_color = "#3f2d21"            # default is #202020
+    sidebar_bg_color = "#2b2d29"            # default is #202020
     sidebar_img_border_color = "#515151"    # default is #515151
     sidebar_p_color = "#909090"             # default is #909090
     sidebar_h1_color = "#FFF"               # default is #FFF
