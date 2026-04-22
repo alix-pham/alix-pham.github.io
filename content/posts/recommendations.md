@@ -1,6 +1,6 @@
 +++
 author = "Alix Pham"
-title = "Things I recommend"
+title = "Some resources"
 date = '2023-02-14'
 draft = "false"
 +++

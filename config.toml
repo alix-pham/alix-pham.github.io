@@ -8,7 +8,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 [params]
     brand = "Alix Pham"                    # name of your site - appears in the sidebar
     brand_image = "/images/profile.JPG"    # path to the image shown in the sidebar
-    description = "Programs & Initiatives Lead\n@\nEA France"
+    description = "Engineering serendipity for people\nworking on what matters"
     dark_mode = false                      # optional - defaults to false
     favicon = "favicon.ico"
 
@@ -19,7 +19,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-        {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
+        {Name = "Posts", URL = "/posts/", HasChildren = true, Limit = 100},
         {Name = "Contact", URL = "/contact/", HasChildren = false},
     ]
 
