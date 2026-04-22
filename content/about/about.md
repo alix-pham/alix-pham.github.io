@@ -9,7 +9,7 @@ draft='false'
 > 
 > Give me feedback [here](/feedback)
 
-Originally from **Toulouse, France**, I currently live in **Lausanne, Switzerland**.
+Originally from **Toulouse, France**, I currently live in **Geneva, Switzerland**.
 
 I design programs, convenings, and experimental formats for impact-focused communities — currently as **Programs & Initiatives Lead at [Effective Altruism France](https://altruismeefficacefrance.org/)**, and through freelance and grant-funded work with biosecurity communities.
 
