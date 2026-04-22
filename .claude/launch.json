@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "hugo",
+      "runtimeExecutable": "hugo",
+      "runtimeArgs": ["server", "--bind", "0.0.0.0", "--themesDir", "/Users/Alix/git/alix-pham.github.io/themes"],
+      "port": 1313
+    }
+  ]
+}

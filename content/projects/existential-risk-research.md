@@ -3,7 +3,7 @@ author = "Alix Pham"
 title = "Existential Risk Research"
 date = '2022-01-23'
 showthedate=true
-draft = "false"
+draft = "true"
 +++
 
 Resilient food sources are investigated by the Alliance to Feed the Earth in Disasters (ALLFED) in case of a catastrophe resulting in an abrupt reduction of sunlight---nuclear war, supervolcanic eruption, asteroid impact. My role in this research cohort was to identify healthy diet combinations and mitigate possible deficiencies using those resilient food sources.

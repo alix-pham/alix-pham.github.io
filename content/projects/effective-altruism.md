@@ -2,7 +2,7 @@
 author = "Alix Pham"
 title = "My Effective Altruism Journey"
 date = '2023-02-15'
-draft = "false"
+draft = "true"
 +++
 
 I joined the Effective Altruism community early 2021. This post describes my journey and my commitments.
