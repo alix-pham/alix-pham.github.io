@@ -29,6 +29,9 @@ With a background in biomedical engineering, I have worked across **biosecurity*
 - \[EA Forum\] [On Owning Our EA Affiliation](https://forum.effectivealtruism.org/posts/TLKFfXJ4gPeXDkBC9/on-owning-our-ea-affiliation)
 - \[EA Forum\] [10 Lessons Learned — One Year at EA Switzerland](https://forum.effectivealtruism.org/posts/ejk5KnD6m6DrmFeua/10-lessons-learned-one-year-at-ea-switzerland)
 
+#### Things I recommend:
+- [Read more...](/posts/recommendations)
+
 #### Education:
 - **Ecole Polytechnique,** France — MSc Interdisciplinary Biology
 - **ETH Zürich,** Switzerland — MSc Biomedical Engineering
