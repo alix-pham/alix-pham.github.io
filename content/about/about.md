@@ -14,7 +14,7 @@ With a background in biomedical engineering, I have worked across **biosecurity*
 #### I am interested in:
 - **program & convening design:** crafting formats that generate real outcomes as well as connections
 - **community & field building:** creating conditions for people to find their path to impact and do their best work together
-- **career coaching**
+- **career coaching: **empowering others in finding purpose in their professional journey
 - **biosecurity:** managing risks from biological agents
 - **AI governance:** ensuring advanced AI development goes well for humanity
 
