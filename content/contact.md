@@ -17,7 +17,7 @@ draft='false'
     margin-bottom: 1rem;
     border: 1px solid #ccc;
     border-radius: 4px;
-    font-size: 1rem;
+    font-size: 0.7rem;
     font-family: inherit;
     box-sizing: border-box;
     background: inherit;

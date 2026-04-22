@@ -5,8 +5,6 @@ date='2023-04-12'
 draft='false'
 +++
 
-> [Contact me](/contact)
-
 Originally from **Toulouse, France**, I currently live in **Geneva, Switzerland**.
 
 I design programs, convenings, and experimental formats for impact-focused communities — currently as **Programs & Initiatives Lead at **[**Effective Altruism France**](https://altruismeefficacefrance.org/), and through freelance and grant-funded work with various communities, e.g. biosecurity professionals.
